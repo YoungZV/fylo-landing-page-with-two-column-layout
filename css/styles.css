@@ -330,11 +330,17 @@ label:hover {
         display: flex;
         justify-content: center;
         align-items: center;
+        gap: 5rem;
 
     }
 
     .flex_item_3 {
         order: 2;
+        width: 60%;
+    }
+
+    .flex_item_4 {
+        width: 40%;
     }
 
     .first_form {
